@@ -1,9 +1,6 @@
 # BH<sup>3</sup>-MedRec
 BH<sup>3</sup>-MedRec: Bilateral Hierarchical Heterogeneous Hypergraph Convolution Network for Medication Recommendation
 
-## Overview
-This repository provides the official PyTorch implementation and reproduction for our model BH<sup>3</sup>-MedRec. To ensure a fair review process, we are releasing a self-contained subset of the source code. Certain core implementation files related to our research are temporarily not included and will be released upon acceptance or at the conclusion of the review. Clear instructions are provided below. For inquiries, please contact the corresponding author.
-
 ## Installation
 
 1. Clone this git repository and change directory to this repository:
